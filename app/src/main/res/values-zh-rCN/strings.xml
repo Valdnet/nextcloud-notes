@@ -246,4 +246,5 @@
     <string name="simple_prev">上一则</string>
     <string name="simple_backup">备份</string>
     <string name="simple_repair">修复</string>
+    <string name="backup">我们检测到应用程序一个不可恢复的状态。请备份您的未同步的更改并清除Notes应用程序的存储。</string>
     </resources>

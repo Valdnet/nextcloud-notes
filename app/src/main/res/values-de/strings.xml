@@ -251,4 +251,5 @@
     <string name="simple_prev">Vorheriges</string>
     <string name="simple_backup">Sicherung</string>
     <string name="simple_repair">Reparieren</string>
+    <string name="backup">Es wurde ein nicht wiederherstellbarer Zustand der App festgestellt. Bitte sichern Sie Ihre nicht synchronisierten Änderungen und löschen Sie den Speicher der Notes-App.</string>
     </resources>

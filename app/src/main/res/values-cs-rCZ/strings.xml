@@ -261,4 +261,5 @@
     <string name="simple_prev">Předchozí</string>
     <string name="simple_backup">Zazálohovat</string>
     <string name="simple_repair">Opravit</string>
+    <string name="backup">Byl zjištěn stav aplikace, ze kterého se nelze zotavit. Prosíme proveďte zálohu svých nesesynchronizovaných změn a vyčistěte úložiště aplikace Poznámky.</string>
     </resources>
